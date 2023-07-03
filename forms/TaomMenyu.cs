@@ -28,6 +28,7 @@ namespace Bloom2.forms
             ["hisob_5"] = ""
         };
         List<Foods> arrayList = new List<Foods>();
+
         List<Foods> list = new List<Foods>();
 
         public bool hisob_1=false;
